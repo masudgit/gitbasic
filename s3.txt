@@ -1,5 +1,0 @@
-S3 is super simple!!!
-
-This is second commit;
-
-This is third commit;
